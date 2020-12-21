@@ -8,4 +8,6 @@
 - ⚡ Fun fact: Yes.
 - ⛔ *Block info*: *Block info*
 
-<a href="https://www.vk.com/maxivimax"><img alt="Twitter URL" src="https://sun9-38.userapi.com/impf/TAYUA2MEiv5qnRZT9sZeNu3l2b_SKwj3FznhIw/yXTlxktiKsU.jpg?size=61x20&quality=96&proxy=1&sign=67c23947fe09e0a0e793fe4981d2bc26&type=album"></a>
+VK - https://vk.com/maxivimax
+E-Mail - maxivimax@icloud.com
+Twitter - https://twitter.com/maxivimax
