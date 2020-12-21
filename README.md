@@ -8,4 +8,4 @@
 - ⚡ Fun fact: Yes.
 - ⛔ *Block info*: *Block info*
 
-<a href="www.vk.com/maxivimax"><img alt="Twitter URL" src="https://sun9-24.userapi.com/impf/_A3VTu5rMnOOCxiY7yuqU9el7j_X6GYvf-12Wg/CIQUsTYKEqM.jpg?size=61x20&quality=96&proxy=1&sign=2837aee2200461ceb7682a0ef92747c8&type=album"></a>
+<a href="https://www.vk.com/maxivimax"><img alt="Twitter URL" src="https://sun9-38.userapi.com/impf/TAYUA2MEiv5qnRZT9sZeNu3l2b_SKwj3FznhIw/yXTlxktiKsU.jpg?size=61x20&quality=96&proxy=1&sign=67c23947fe09e0a0e793fe4981d2bc26&type=album"></a>
