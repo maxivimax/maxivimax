@@ -8,4 +8,4 @@
 - ⚡ Fun fact: Yes.
 - ⛔ *Block info*: *Block info*
 
-<img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fmaxivimax">
+<a href="vk.com/maxivimax"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social"></a>
