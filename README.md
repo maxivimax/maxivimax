@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate with Me)
 - 📫 You can reach me in VK, E-Mail, Twitter, My chat(😄)
-- 😄 Pronouns: Maxivimax, Slava Slivov, Plum, Slava Marlow
+- 😄 Pronouns: Maxivimax, Slava Slivov, Plum, Slava Marlav
 - ⚡ Fun fact: Yes.
 - ⛔ *Block info*: *Block info*
 
