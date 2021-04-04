@@ -9,6 +9,8 @@
 - ⛔ *Block info*: *Block info*
 
 ____
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+____
 
 ### Links 📃
 
