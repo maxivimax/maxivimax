@@ -9,7 +9,7 @@
 - ⛔ *Block info*: *Block info*
 
 ____
-![Моя стата 1](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)![Моя стата 2](https://github-readme-stats.vercel.app/api/top-langs/?username=maxivimax&layout=compact&theme=radical)
+![Моя стата 1](https://github-readme-stats.vercel.app/api?username=maxivimax&show_icons=true&theme=radical)![Моя стата 2](https://github-readme-stats.vercel.app/api/top-langs/?username=maxivimax&layout=compact&theme=radical)
 ____
 
 ### Links 📃
