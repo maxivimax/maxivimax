@@ -9,9 +9,11 @@
 - ⛔ *Block info*: *Block info*
 
 ____
-![Моя стата 1](https://github-readme-stats.vercel.app/api?username=maxivimax&hide=contribs,prs&theme=radical)
+### Stats 😃
 
-![Моя стата 2](https://github-readme-stats.vercel.app/api/top-langs/?username=maxivimax&layout=compact&theme=radical)
+  ![Моя стата 1](https://github-readme-stats.vercel.app/api?username=maxivimax&hide=contribs,prs&theme=radical)
+
+  ![Моя стата 2](https://github-readme-stats.vercel.app/api/top-langs/?username=maxivimax&layout=compact&theme=radical)
 ____
 
 ### Links 📃
