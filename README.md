@@ -1,6 +1,6 @@
 ## 👋 Hi there
 <img src="https://i.pinimg.com/originals/3b/83/15/3b83155598486234070d9f736a9e389d.png">
-It's me. Woman, but man.
+It's me. Man, but woman.
 
 ____
 
