@@ -21,9 +21,3 @@ ____
 + VK - https://vk.com/maxivimax
 + E-Mail - maxivimax@icloud.com 
 + Twitter - https://twitter.com/maxivimax
-
-### My verbal diarrhea
-
-Голова не болит? Верно! Так как болид это гоночный автомобиль
-
-Спи моя радость усни, в морге погасли огни, трупы на полках лежат, мухи над ними жужжат. Вот так вот.
