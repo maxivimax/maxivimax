@@ -1,23 +1,34 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on My site and "Trenashor"
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate with Me)
-- 📫 You can reach me in VK, E-Mail, Twitter, My chat(😄)
-- 😄 Pronouns: Maxivimax, Slava Slivov, Plum, Slava Marlav
-- ⚡ Fun fact: Yes.
-- ⛔ *Block info*: *Block info*
+## 👋 Hi there
+<img src="https://i.pinimg.com/originals/3b/83/15/3b83155598486234070d9f736a9e389d.png">
+It's me. Woman, but man.
 
 ____
-### Stats 😃
 
-   ![Моя стата 1](https://github-readme-stats.vercel.app/api?username=maxivimax&hide=contribs,prs&theme=radical)
+## 📃 About me
 
-   ![Моя стата 2](https://github-readme-stats.vercel.app/api/top-langs/?username=maxivimax&layout=compact&theme=radical)
+```javascript
+const AboutMe = {
+  pronouns: "he" | "his",
+  code: ["JavaScript", "c++", "Python", "Java", "HTML5", "TypeScript"],
+  tools: ["React", "NodeJS", "Storybook", "Styled-Components", "Jest", "Docker"],
+  services: ["Heroku", "Google Cloud", "Git", "GitHub"],
+  dataBases: ["GraphQL", "MySQL", "Apollo GraphQL", "PostgreSQL"],
+  iWorkThis: ["Raspberry Pi", "Arduino"],
+  links: {
+    VK: "https://vk.com/maxivimax",
+    Twitter: "https://twitter.com/maxivimax",
+    E-Mail: "maxivimax@icloud.com"
+  },
+ challenge: "Nope"
+}
+```
+
 ____
 
-### Links 📃
+## 👾 Pins
 
-+ VK - https://vk.com/maxivimax
-+ E-Mail - maxivimax@icloud.com 
-+ Twitter - https://twitter.com/maxivimax
+[![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
+[![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
+[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
+[![React](https://img.shields.io/badge/I%20love-React-4FC08D?style=flat-square&logo=javascript&logoColor=white)](https://vuejs.org/)
