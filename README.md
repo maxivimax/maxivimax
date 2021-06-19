@@ -7,7 +7,7 @@ ____
 ## 📃 About me
 
 ```javascript
-const AboutMe = {
+var AboutMe = {
   pronouns: "he" | "his",
   code: ["JavaScript", "c++", "Python", "Java", "HTML5", "TypeScript"],
   tools: ["React", "NodeJS", "Storybook", "Styled-Components", "Jest", "Docker"],
