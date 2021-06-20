@@ -21,43 +21,17 @@ var AboutMe = {
     misc: ["Heroku", "Google Cloud", "Git", "GitHub"]
   },
   
-  links: {
-    VK: "https://vk.com/maxivimax",
-    Twitter: "https://twitter.com/maxivimax",
-    E-Mail: "maxivimax@icloud.com"
-  },
   currentFocus: "Automated recognition of the river ice filling percentage, push-up counting device"
 }
 ```
 
-#### 👷 Check out what I'm currently working on
-{{range recentContributions 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
-
-#### ⭐ Recent Stars
-{{range recentStars 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
-{{- end}}
-
-#### ❤️ These awesome people sponsor me (thank you!)
-{{range sponsors 5}}
-- [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
-#### 👯 Check out some of my recent followers
+#### 👯 𝐂𝐡𝐞𝐜𝐤 𝐨𝐮𝐭 𝐬𝐨𝐦𝐞 𝐨𝐟 𝐦𝐲 𝐫𝐞𝐜𝐞𝐧𝐭 𝐟𝐨𝐥𝐥𝐨𝐰𝐞𝐫𝐬
 {{range followers 5}}
 - [{{.Login}}]({{.URL}})
 {{- end}}
 
-#### 💬 Feedback
+#### 📫 𝐇𝐨𝐰 𝐭𝐨 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞
 
-Say Hello, I don't bite!
-
-#### 📫 How to reach me
-
-- Twitter: https://twitter.com/...
-- Fediverse: https://mastodon.social/@...
-- Blog: https://...
-
-Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
+-  VK: https://vk.com/maxivimax
+-  Twitter: https://twitter.com/maxivimax
+-  E-Mail: maxivimax@icloud.com
