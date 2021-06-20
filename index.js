@@ -7,7 +7,7 @@ weather.setLang('ru');
 weather.setCity('Fairplay');
 weather.setUnits('metric');
 weather.setAPPID("a2d8addaa9d3224d5b808a9dd5a5110c");
-var sjsontemp = [];
+let sjsontemp = [];
 
 const myghurl = "https://api.github.com/users/maxivimax";
 
