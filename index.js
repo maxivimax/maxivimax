@@ -2,6 +2,7 @@ const fetch = require("isomorphic-unfetch");
 const { promises: fs } = require("fs");
 const path = require("path");
 var weather = require('openweather-apis');
+const un = process.env.USERNAME;
 
 weather.setLang('ru');
 weather.setCity('Fairplay');
@@ -17,7 +18,7 @@ async function main() {
     await fs.readFile(path.join(process.cwd(), "./README.template.md"))
   ).toString("utf-8");
 
-  myghurl = myghurl + process.env.USERNAME
+  myghurl = myghurl + un;
 
   const info = await (
     await fetch(myghurl, {})
