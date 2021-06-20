@@ -25,14 +25,14 @@ var AboutMe = {
 }
 ```
 
-#### 👯 𝐂𝐡𝐞𝐜𝐤 𝐨𝐮𝐭 𝐬𝐨𝐦𝐞 𝐨𝐟 𝐦𝐲 𝐫𝐞𝐜𝐞𝐧𝐭 𝐟𝐨𝐥𝐥𝐨𝐰𝐞𝐫𝐬
+## 👯 𝐂𝐡𝐞𝐜𝐤 𝐨𝐮𝐭 𝐬𝐨𝐦𝐞 𝐨𝐟 𝐦𝐲 𝐫𝐞𝐜𝐞𝐧𝐭 𝐟𝐨𝐥𝐥𝐨𝐰𝐞𝐫𝐬
 
 - [iNe1t](https://github.com/iNe1t)
 - [Eliac11](https://github.com/Eliac11)
 - [Vait-Marsovich](https://github.com/Vait-Marsovich)
 - [chudo9991](https://github.com/chudo9991)
 
-#### 📫 𝐇𝐨𝐰 𝐭𝐨 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞
+## 📫 𝐇𝐨𝐰 𝐭𝐨 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞
 
 -  VK: https://vk.com/maxivimax
 -  Twitter: https://twitter.com/maxivimax
