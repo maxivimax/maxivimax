@@ -27,7 +27,7 @@ async function main() {
   const readme = readmeTemplate
     .replace("{name}", '"' + info["name"] + '"')
     .replace("{temp}", '"' + sjsontemp["temp"] + '"')
-    .replace("{humidity}", '"' + sjsontemp["humidity"] + '"')
+    .replace("{humidity}", '"' + sjsontemp["humidity"] + '%"')
     .replace("{loc}", '"' + info["location"] + '"');
 
   await fs.writeFile("README.md", readme);
