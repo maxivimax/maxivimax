@@ -7,11 +7,14 @@ weather.setLang('ru');
 weather.setCity('Fairplay');
 weather.setUnits('metric');
 weather.setAPPID("a2d8addaa9d3224d5b808a9dd5a5110c");
+var sjsontemp = [];
 
 const myghurl = "https://api.github.com/users/maxivimax";
 
 async function main() {
-  var sjsontemp = weather.getSmartJSON();
+  weather.getSmartJSON(function(err, smart){
+		sjsontemp = smart;
+	});
   
   const readmeTemplate = (
     await fs.readFile(path.join(process.cwd(), "./README.template.md"))
