@@ -25,12 +25,12 @@ var AboutMe = {
 }
 ```
 
-#### 👯 𝐂𝐡𝐞𝐜𝐤 𝐨𝐮𝐭 𝐬𝐨𝐦𝐞 𝐨𝐟 𝐦𝐲 𝐫𝐞𝐜𝐞𝐧𝐭 𝐟𝐨𝐥𝐥𝐨𝐰𝐞𝐫𝐬
+## 👯 𝐂𝐡𝐞𝐜𝐤 𝐨𝐮𝐭 𝐬𝐨𝐦𝐞 𝐨𝐟 𝐦𝐲 𝐫𝐞𝐜𝐞𝐧𝐭 𝐟𝐨𝐥𝐥𝐨𝐰𝐞𝐫𝐬
 {{range followers 5}}
 - [{{.Login}}]({{.URL}})
 {{- end}}
 
-#### 📫 𝐇𝐨𝐰 𝐭𝐨 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞
+## 📫 𝐇𝐨𝐰 𝐭𝐨 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞
 
 -  VK: https://vk.com/maxivimax
 -  Twitter: https://twitter.com/maxivimax
