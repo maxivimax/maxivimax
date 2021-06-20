@@ -6,9 +6,14 @@
 ```javascript
 var AboutMe = {
   baseInfo: {
-    name: "Slava",
+    name: {name},
     sex: "man",
+    location: {loc},
     nationality: "Russian"
+  },
+  mySityInfo: {
+      temp: {temp},
+      humidity: {humidity}
   },
   
   code: ["JavaScript", "C++", "Python", "HTML5", "TypeScript"],
@@ -24,13 +29,6 @@ var AboutMe = {
   currentFocus: "Automated recognition of the river ice filling percentage, push-up counting device"
 }
 ```
-
-## 👯 𝐂𝐡𝐞𝐜𝐤 𝐨𝐮𝐭 𝐬𝐨𝐦𝐞 𝐨𝐟 𝐦𝐲 𝐫𝐞𝐜𝐞𝐧𝐭 𝐟𝐨𝐥𝐥𝐨𝐰𝐞𝐫𝐬
-
-- [iNe1t](https://github.com/iNe1t)
-- [Eliac11](https://github.com/Eliac11)
-- [Vait-Marsovich](https://github.com/Vait-Marsovich)
-- [chudo9991](https://github.com/chudo9991)
 
 ## 📫 𝐇𝐨𝐰 𝐭𝐨 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞
 
