@@ -1,0 +1,39 @@
+name: ReGenerate README
+
+on:
+  schedule:
+    - cron: "0 */1 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - master 
+
+jobs:
+  stuff:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone Git file
+        uses: actions/checkout@v2
+
+      - name: Install NodeJS
+        uses: actions/setup-node@v1
+        with:
+          node-version: 14.6.0
+
+      - run: yarn
+
+      - run: node .
+        env:
+          USERNAME: "maxivimax"
+
+      - name: Commit README.md
+        run: |
+          git add .
+          git config --global user.name "MBDBot"
+          git config --global user.email "maxivimax@icloud.com"
+          git commit -m "MBDBot update README file"
+
+      - name: Push to profile
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GHTOKEN }}
