@@ -12,8 +12,8 @@ var AboutMe = {
     nationality: "Russian"
   },
   mySityInfo: {
-      temp: "undefined",
-      humidity: "undefined%"
+      temp: "31.7",
+      humidity: "35%"
   },
   
   code: ["JavaScript", "C++", "Python", "HTML5", "TypeScript"],
@@ -29,7 +29,7 @@ var AboutMe = {
   currentFocus: "Automated recognition of the river ice filling percentage, push-up counting device"
 }
 ```
-
+апрпол
 ## 📫 𝐇𝐨𝐰 𝐭𝐨 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞
 
 -  VK: https://vk.com/maxivimax
