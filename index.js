@@ -4,7 +4,7 @@ const path = require("path");
 var weather = require('openweather-apis');
 
 weather.setLang('ru');
-weather.setCity('Fairplay');
+weather.setCity('Russia, Petrozavodsk');
 weather.setUnits('metric');
 weather.setAPPID("a2d8addaa9d3224d5b808a9dd5a5110c");
 let sjsontemp = [];
