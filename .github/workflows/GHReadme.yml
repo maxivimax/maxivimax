@@ -28,7 +28,6 @@ jobs:
 
       - name: Commit README.md
         run: |
-          git add .
           git config --global user.name "MBDBot"
           git config --global user.email "maxivimax@icloud.com"
           git commit -m "MBDBot update README file"
