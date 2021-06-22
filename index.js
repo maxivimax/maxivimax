@@ -30,7 +30,7 @@ async function main() {
   
   var allname = "";
   
-  bhumans.forEach((element) => { allname = allname + element.login + " " });
+  bhumans.forEach((element) => { allname = allname + "!["+element.login+"](" + element.html_url + ")" + " " });
 	
   const readme = readmeTemplate
     .replace("{name}", '"' + info["name"] + '"')
