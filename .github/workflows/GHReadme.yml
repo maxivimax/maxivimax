@@ -30,8 +30,12 @@ jobs:
         run: |
           git config --global user.name "MBDBot"
           git config --global user.email "maxivimax@icloud.com"
-          git commit -m "MBDBot update README file"
 
+      - name: KirillGay
+        run: |
+          git add .
+          git commit -m "MBDBot update README file"
+          
       - name: Push to profile
         uses: ad-m/github-push-action@master
         with:
