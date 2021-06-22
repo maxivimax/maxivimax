@@ -30,14 +30,14 @@ async function main() {
   
   var allname = "";
   
-  const aaa = bhumans.forEach((element) => { allname = allname + element.login + ", " });
+  bhumans.forEach((element) => { allname = allname + element.login + ", " });
 
   const readme = readmeTemplate
     .replace("{name}", '"' + info["name"] + '"')
     .replace("{temp}", '"' + sjsontemp["temp"] + '"')
     .replace("{humidity}", '"' + sjsontemp["humidity"] + '%"')
     .replace("{loc}", '"' + info["location"] + '"')
-    .replace("{bhumans}", bhumans);
+    .replace("{bhumans}", allname);
 
   await fs.writeFile("README.md", readme);
 }
