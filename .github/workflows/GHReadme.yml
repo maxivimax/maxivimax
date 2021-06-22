@@ -30,8 +30,12 @@ jobs:
         run: |
           git config --global user.name "MBDBot"
           git config --global user.email "maxivimax@icloud.com"
+      
+      - name: test ls
+        run: |
+          ls
 
-      - name: KirillGay
+      - name: KirillNotGay
         run: |
           git add README.md
           git commit README.md -m "MBDBot update README file"
