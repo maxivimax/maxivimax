@@ -12,8 +12,8 @@ var AboutMe = {
     nationality: "Russian"
   },
   mySityInfo: {
-      temp: "31.7",
-      humidity: "45%"
+      temp: "undefined",
+      humidity: "undefined%"
   },
   
   code: ["JavaScript", "C++", "Python", "HTML5", "TypeScript"],
@@ -29,6 +29,10 @@ var AboutMe = {
   currentFocus: "Automated recognition of the river ice filling percentage, push-up counting device"
 }
 ```
+
+## ✨ 𝐁𝐞𝐬𝐭 𝐡𝐮𝐦𝐚𝐧𝐬
+
+{bhumans}
 
 ## 📫 𝐇𝐨𝐰 𝐭𝐨 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞
 
