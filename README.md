@@ -12,8 +12,8 @@ var AboutMe = {
     nationality: "Russian"
   },
   mySityInfo: {
-      temp: "undefined",
-      humidity: "undefined%"
+      temp: "32.7",
+      humidity: "40%"
   },
   
   code: ["JavaScript", "C++", "Python", "HTML5", "TypeScript"],
@@ -32,7 +32,7 @@ var AboutMe = {
 
 ## ✨ 𝐁𝐞𝐬𝐭 𝐡𝐮𝐦𝐚𝐧𝐬
 
-[object Object],[object Object]
+maxivimax, iNe1t, 
 
 ## 📫 𝐇𝐨𝐰 𝐭𝐨 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞
 
