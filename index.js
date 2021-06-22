@@ -33,6 +33,7 @@ async function main() {
   bhumans.forEach((element) => { allname = allname + element.login + ", " });
 	
   allname = allname.substring(0, s.length - 2);
+  allname = "dffgdf"
 
   const readme = readmeTemplate
     .replace("{name}", '"' + info["name"] + '"')
