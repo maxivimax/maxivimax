@@ -31,9 +31,9 @@ jobs:
           git config --global user.name "MBDBot"
           git config --global user.email "maxivimax@icloud.com"
       
-      - name: test ls
+      - name: test cat
         run: |
-          ls
+          cat README.md
 
       - name: KirillNotGay
         run: |
