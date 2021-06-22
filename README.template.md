@@ -30,6 +30,10 @@ var AboutMe = {
 }
 ```
 
+## ✨ 𝐁𝐞𝐬𝐭 𝐡𝐮𝐦𝐚𝐧𝐬
+
+{bhumans}
+
 ## 📫 𝐇𝐨𝐰 𝐭𝐨 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞
 
 -  VK: https://vk.com/maxivimax
