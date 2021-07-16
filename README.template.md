@@ -34,10 +34,6 @@ var AboutMe = {
 
 {bhumans}
 
-## 🎧 𝐒𝐩𝐨𝐭𝐢𝐟𝐲 𝐩𝐥𝐚𝐲𝐢𝐧𝐠
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Maxivimax Spotify Playing" width="350" />](https://open.spotify.com/user/31rabhbii6kifbqytqkj7xgjdcga)
-
 ## 📫 𝐇𝐨𝐰 𝐭𝐨 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞
 
 -  VK: https://vk.com/maxivimax
