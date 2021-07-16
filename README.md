@@ -12,8 +12,8 @@ var AboutMe = {
     nationality: "Russian"
   },
   mySityInfo: {
-      temp: "undefined",
-      humidity: "undefined%"
+      temp: "14.7",
+      humidity: "72%"
   },
   
   code: ["JavaScript", "C++", "Python", "HTML5", "TypeScript"],
@@ -33,10 +33,6 @@ var AboutMe = {
 ## ✨ 𝐁𝐞𝐬𝐭 𝐡𝐮𝐦𝐚𝐧𝐬
 
 [maxivimax](https://github.com/maxivimax) [iNe1t](https://github.com/iNe1t) 
-
-## 🎧 𝐒𝐩𝐨𝐭𝐢𝐟𝐲 𝐩𝐥𝐚𝐲𝐢𝐧𝐠
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Maxivimax Spotify Playing" width="350" />](https://open.spotify.com/user/31rabhbii6kifbqytqkj7xgjdcga)
 
 ## 📫 𝐇𝐨𝐰 𝐭𝐨 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞
 
