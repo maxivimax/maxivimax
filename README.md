@@ -12,8 +12,8 @@ var AboutMe = {
     nationality: "Russian"
   },
   mySityInfo: {
-      temp: "23.7",
-      humidity: "50%"
+      temp: "25.7",
+      humidity: "41%"
   },
   
   code: ["JavaScript", "C++", "Python", "HTML5", "TypeScript"],
