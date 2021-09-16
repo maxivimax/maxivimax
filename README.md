@@ -13,7 +13,7 @@ var AboutMe = {
   },
   mySityInfo: {
       temp: "8.7",
-      humidity: "66%"
+      humidity: "71%"
   },
   
   code: ["JavaScript", "C++", "Python", "HTML5", "TypeScript"],
