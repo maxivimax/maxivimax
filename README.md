@@ -32,7 +32,7 @@ var AboutMe = {
 
 ## ✨ 𝐁𝐞𝐬𝐭 𝐡𝐮𝐦𝐚𝐧𝐬
 
-[maxivimax](https://github.com/maxivimax) [iNe1t](https://github.com/iNe1t) 
+[maxivimax](https://github.com/maxivimax) [iNe1t](https://github.com/iNe1t) [Eliac11](https://github.com/Eliac11) 
 
 ## 📫 𝐇𝐨𝐰 𝐭𝐨 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞
 
