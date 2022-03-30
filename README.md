@@ -26,7 +26,7 @@ var AboutMe = {
     misc: ["Heroku", "Google Cloud", "Git", "GitHub"]
   },
   
-  currentFocus: "Push-up counting device"
+  currentFocus: "Automated recognition of the river ice filling percentage, push-up counting device"
 }
 ```
 
