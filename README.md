@@ -11,10 +11,6 @@ var AboutMe = {
     location: "Russia, Petrozavodsk",
     nationality: "Russian"
   },
-  mySityInfo: {
-      temp: "22.49",
-      humidity: "49%"
-  },
   
   code: ["JavaScript", "C++", "Python", "HTML5", "TypeScript"],
   os: ["macOS", "Windows", "Linux"],
@@ -24,9 +20,7 @@ var AboutMe = {
     databases: ["GraphQL", "MySQL", "Apollo GraphQL", "PostgreSQL"],
     devices: ["Raspberry Pi", "Arduino"],
     misc: ["Heroku", "Google Cloud", "Git", "GitHub"]
-  },
-  
-  currentFocus: "Push-up counting device"
+  }
 }
 ```
 
