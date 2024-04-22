@@ -31,7 +31,7 @@ var AboutMe = {
 ## 📫 𝐇𝐨𝐰 𝐭𝐨 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞
 
 -  VK: https://vk.com/maxivimax
--  Telegram: maxivimax.t.me
+-  Telegram: https://maxivimax.t.me
 -  E-Mail: maxivimax@icloud.com
 
 P.S. Finally! I cleaned my profile from junk repository :)
