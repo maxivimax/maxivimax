@@ -1,5 +1,5 @@
 ## 👋 𝐇𝐢 𝐭𝐡𝐞𝐫𝐞
-Let's think that nothing has ever been here?
-I'm update this text soon, really
+Studying, work, happy :3
+Soon i'm text here smth pretty ⭐
 
-Now text me https://maxivimax.t.me
+Now you can text me https://maxivimax.t.me
