@@ -2,6 +2,6 @@
 Studying, work, happy :3
 Soon i'm text here smth pretty ⭐
 
-I'm rebase to GitLab: [link](https://gitlab.com/maxivimax)
+I'm rebasing to GitLab: [link](https://gitlab.com/maxivimax)
 
 Now you can text me [link](https://maxivimax.t.me)
